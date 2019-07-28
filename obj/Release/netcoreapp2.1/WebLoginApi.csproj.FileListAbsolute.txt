@@ -1,0 +1,14 @@
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\bin\Release\netcoreapp2.1\WebLoginApi.deps.json
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\bin\Release\netcoreapp2.1\WebLoginApi.runtimeconfig.json
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\bin\Release\netcoreapp2.1\WebLoginApi.runtimeconfig.dev.json
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\bin\Release\netcoreapp2.1\WebLoginApi.dll
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\bin\Release\netcoreapp2.1\WebLoginApi.pdb
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\obj\Release\netcoreapp2.1\WebLoginApi.csprojAssemblyReference.cache
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\obj\Release\netcoreapp2.1\WebLoginApi.csproj.CoreCompileInputs.cache
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\obj\Release\netcoreapp2.1\WebLoginApi.RazorAssemblyInfo.cache
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\obj\Release\netcoreapp2.1\WebLoginApi.RazorAssemblyInfo.cs
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\obj\Release\netcoreapp2.1\WebLoginApi.AssemblyInfoInputs.cache
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\obj\Release\netcoreapp2.1\WebLoginApi.AssemblyInfo.cs
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\obj\Release\netcoreapp2.1\WebLoginApi.RazorTargetAssemblyInfo.cache
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\obj\Release\netcoreapp2.1\WebLoginApi.dll
+C:\Users\Reece's SHITTY PC\source\repos\Reece'sLoaderLoginAPI\WebLoginApi\obj\Release\netcoreapp2.1\WebLoginApi.pdb
